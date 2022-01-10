@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469799883395",
+    "project_id": "zaposlise-4777c",
+    "storage_bucket": "zaposlise-4777c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469799883395:android:9bc932f6f60f36cf6e81b6",
+        "android_client_info": {
+          "package_name": "com.zaposlise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469799883395-lfo605oqrv1uoudan5be97tcn3as3au4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcuWHRzoWHNh_3jIiMWTJQ7UUtGxRjKSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469799883395-lfo605oqrv1uoudan5be97tcn3as3au4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
